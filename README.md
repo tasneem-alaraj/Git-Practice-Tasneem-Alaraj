@@ -20,8 +20,6 @@
 4. Make your edits and commit them.
 5. Push the changes to your fork.
 6. Submit a Pull Request to the original repository.
--e "\n## Task Summary\nThis task demonstrates basic Git and GitHub skills including branches, commits, and pull requests." 
-## Task Summary 
-This task demonstrates basic Git and GitHub skills including branches, commits, and pull requests. 
+ 
 ## Task Summary 
 This task demonstrates basic Git and GitHub skills including branches, commits, and pull requests. 
