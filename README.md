@@ -23,3 +23,5 @@
 -e "\n## Task Summary\nThis task demonstrates basic Git and GitHub skills including branches, commits, and pull requests." 
 ## Task Summary 
 This task demonstrates basic Git and GitHub skills including branches, commits, and pull requests. 
+## Task Summary 
+This task demonstrates basic Git and GitHub skills including branches, commits, and pull requests. 
